@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "kubernetes://schema/apps/v1%40deployment": "file:///home/nealfan/CST8915/Final/algonquin-pet-store-on-steroids/Deployment%20Files/aps-all-in-one.yaml"
+    }
+}
