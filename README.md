@@ -166,7 +166,7 @@ A table listing each microservice repository and its Docker Hub image link.
 | `order-service` | This service is used for placing orders (Javascript) | [order-service-final](https://hub.docker.com/r/nealfan/order-service-final) |
 | `product-service` | This service is used to perform CRUD operations on products (Rust) | [product-service-final](https://hub.docker.com/r/nealfan/product-service-final) |
 | `makeline-service` | This service handles processing orders from the queue and completing them (Golang) | [makeline-service-final](https://hub.docker.com/r/nealfan/makeline-service-final) |
-| `ai-service` | Optional service for adding generative text and graphics creation (Python) | [ai-service-final]([https://github.com](https://hub.docker.com/r/nealfan/ai-service-final) |
+| `ai-service` | Optional service for adding generative text and graphics creation (Python) | [ai-service-final]((https://hub.docker.com/r/nealfan/ai-service-final) |
 | `rabbitmq` | RabbitMQ for an order queue | [rabbitmq](https://github.com/docker-library/rabbitmq) |
 | `mongodb` | MongoDB instance for persisted data | [mongodb](https://github.com/docker-library/mongo) |
 | `virtual-customer` | Simulates order creation on a scheduled basis (Rust) | [virtual-customer-final](https://hub.docker.com/r/nealfan/virtual-custormer-final) |
