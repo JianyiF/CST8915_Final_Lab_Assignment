@@ -178,7 +178,13 @@ A table listing each microservice repository and its Docker Hub image link.
 
 https://youtu.be/lp00QVRaO3Q
 
+## 6. Bonus Questions
+
+https://youtu.be/c_tapXlfI1w
+You can find the Automation configuration from my git link.
+
 You can use the kubernetes YAML files provided in the [Deployment Files](./Deployment%20Files/) folder to deploy the app to an AKS cluster.
+
 
 
 
