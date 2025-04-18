@@ -147,15 +147,15 @@ A table listing each microservice repository and its GitHub link.
 | Service | Description | Github Repo |
 | --- | --- | --- |
 | `store-front` | Web app for customers to place orders (Vue.js) | [store-front-final](https://github.com/JianyiF/store-front-final) |
-| `store-admin` | Web app used by store employees to view orders in queue and manage products (Vue.js) | [store-admin-final](https://github.com/nealfan/store-admin-final) |
-| `order-service` | This service is used for placing orders (Javascript) | [order-service-final](https://github.com/nealfan/order-service-final) |
-| `product-service` | This service is used to perform CRUD operations on products (Rust) | [product-service-final](https://github.com/nealfan/product-service-final) |
-| `makeline-service` | This service handles processing orders from the queue and completing them (Golang) | [makeline-service-final](https://github.com/nealfan/makeline-service-final) |
+| `store-admin` | Web app used by store employees to view orders in queue and manage products (Vue.js) | [store-admin-final](https://github.com/JianyiF/store-admin-final.git) |
+| `order-service` | This service is used for placing orders (Javascript) | [order-service-final](https://github.com/nealfan/order-service-final.git) |
+| `product-service` | This service is used to perform CRUD operations on products (Rust) | [product-service-final](https://github.com/nealfan/product-service-final.git) |
+| `makeline-service` | This service handles processing orders from the queue and completing them (Golang) | [makeline-service-final](https://github.com/nealfan/makeline-service-final.git) |
 | `ai-service` | Optional service for adding generative text and graphics creation (Python) | [ai-service-final](https://github.com/nealfan/ai-service-final) |
 | `rabbitmq` | RabbitMQ for an order queue | [rabbitmq](https://github.com/docker-library/rabbitmq) |
 | `mongodb` | MongoDB instance for persisted data | [mongodb](https://github.com/docker-library/mongo) |
-| `virtual-customer` | Simulates order creation on a scheduled basis (Rust) | [virtual-customer-final](https://github.com/nealfan/virtual-customer-final) |
-| `virtual-worker` | Simulates order completion on a scheduled basis (Rust) | [virtual-worker-final](https://github.com/nealfan/virtual-worker-final) |
+| `virtual-customer` | Simulates order creation on a scheduled basis (Rust) | [virtual-customer-final](https://github.com/nealfan/virtual-customer-final.git) |
+| `virtual-worker` | Simulates order completion on a scheduled basis (Rust) | [virtual-worker-final](https://github.com/nealfan/virtual-worker-final.git) |
 
 A table listing each microservice repository and its Docker Hub image link.
 
